@@ -67,7 +67,7 @@ a:hover {
     right: 0;
 }
 .texture-paper::before {
-    background: url(https://zaisuru.github.io/HolderbaumThomas_P4_14112020/img/texture-paper.webp);
+    background: url("../img/texture-paper.jpg");
     background-size: 280px 280px;
 }
 .b-parallax {
@@ -458,13 +458,13 @@ h4 {
     border-color: #364577 !important;
 }
 .bg-lines-h2-bg {
-    background-image: url(https://zaisuru.github.io/HolderbaumThomas_P4_14112020/img/lines-h2-bg.webp);
+    background-image: url("../img/lines-h2-bg.jpg");
 }
 .bg-banniere {
-    background-image: url(https://zaisuru.github.io/HolderbaumThomas_P4_14112020/img/la-chouette-agence-banniere.webp);
+    background-image: url("../img/la-chouette-agence-banniere.jpg");
 }
 .bg-presentation {
-    background-image: url(https://zaisuru.github.io/HolderbaumThomas_P4_14112020/img/image-de-presentation.webp);
+    background-image: url("../img/image-de-presentation.jpg");
 }
 @media (max-width: 1024px) {
     .bloc {
